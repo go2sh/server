@@ -11,7 +11,6 @@ default:
 
         - AppNavigationContext
         - CommentsAppContext
-        - ContactsMenuContext
         - FeatureContext
         - FileListContext
         - FilesAppContext
